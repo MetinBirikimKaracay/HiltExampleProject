@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.HiltInfo" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF3435</item>
+        <item name="colorPrimaryDark">#2E3C6C</item>
+        <item name="colorAccent">#C3A65E</item>
+    </style>
+</resources>
